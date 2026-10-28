@@ -11,4 +11,4 @@ This is a simple student management project.
 - HTML
 - CSS
 - Git
-_ HTML
+
