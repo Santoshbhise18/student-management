@@ -12,3 +12,4 @@ This is a simple student management project.
 - CSS
 - Git
 _ HTML
+git stash practice
