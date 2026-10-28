@@ -12,4 +12,3 @@ This is a simple student management project.
 - CSS
 - Git
 _ HTML
-practice staging
